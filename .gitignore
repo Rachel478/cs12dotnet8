@@ -12,3 +12,5 @@ x64/
 
 # Mac
 .DS_Store
+
+.fake
